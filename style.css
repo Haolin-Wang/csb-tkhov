@@ -1,0 +1,49 @@
+#hotstuff {
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  top: 140px;
+  left: 130px;
+  width: 1090px;
+  height: 400px;
+}
+#serch {
+  position: absolute;
+  top: 20px;
+  height: 50px;
+  width: 300px;
+  left: 53%;
+}
+#serchbutton {
+  position: relative;
+  top: 12px;
+  height: 50px;
+  width: 70px;
+  left: 76%;
+}
+#event {
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  top: 600px;
+  left: 130px;
+  width: 510px;
+  height: 200px;
+}
+#foodframe {
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  top: 600px;
+  left: 710px;
+  width: 510px;
+  height: 200px;
+}
+#serchimg {
+  position: absolute;
+  top: 30px;
+  left: 980px;
+  height: 30px;
+  width: 30px;
+}
+#foodurl {
+  font-size: 18px;
+  text-decoration-style: none;
+}
